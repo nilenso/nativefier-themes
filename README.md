@@ -7,7 +7,7 @@ Dark themes for native-fied web apps
 $ npm install nativefier -g
 ```
 
-### Using Nativefier with Themes
+## Using Nativefier with Themes
 
 ```
 $ nativefier --name "Dark Slack" "https://nilenso.slack.com" --inject SlackDark.css
