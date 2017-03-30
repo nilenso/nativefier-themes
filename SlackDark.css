@@ -1,10 +1,17 @@
 
+/* Custom junk: */
+
 #client_body, #client_body::before,
 .client_main_container, header, #client_header,
 ts-message, .message, .day_container, .day_divider, .day_msgs, .mention,
 #messages_container, #msgs_scroller_div, #msgs_div, #footer { background: #282a2e !important; }
 
 #client_body::before { border-bottom: #282a2e !important; }
+
+.message_sender { color: #c0c0c0 !important }
+
+
+/* Dark theme originally from "Slack Tomorrow Dark" Stylish theme: */
 
 body { background: #282a2e; color: #e0e0e0; }
   a { color: #ffffff; }
