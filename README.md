@@ -1,3 +1,7 @@
+# DEPRECATED
+
+# THIS REPOSITORY HAS BEEN DEPRECATED IN FAVOUR OF: https://gitlab.com/nilenso/nativefier-themes
+
 # nativefier-themes
 Dark themes for native-fied web apps
 
